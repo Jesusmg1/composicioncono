@@ -3,6 +3,7 @@ package ProgramaCono;
 public class ProgramaComposicionCono {
 
 	/**
+	 * Para comprobar que funciona el commit
 	 * Esta clase genera un cono con numeros aleatorios
 	 * @author Usuario
 	 * @param imprimir este metodo coge la informacion de los atributos de los objetos circulo y cono y los imprime en pantalla
